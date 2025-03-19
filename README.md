@@ -7,5 +7,6 @@ Welcome to the **SmartFactory-KL Icons & Thumbnails Repository**! This repositor
 ```
 / 
 ├── truck/          # Collection of thumbnails related to the model truck
+├── other/          # Collection of thumbnails related other assets like modules or icons
 
 ```
